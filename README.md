@@ -17,6 +17,16 @@ Imagen desde URL externa
 ![Logo](https://media.licdn.com/dms/image/v2/D4E03AQEBfDzb-tCGiA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1685628584443?e=2147483647&v=beta&t=JzLRFmLwoSOK9OooYFn26MZcuyiGWC4-YeOGW_0hL4c)
 
 
+Listas
+Elemento sin orden
+- Elemento sin orden
+
+1. Elemento con orden
+2. Elemento con orden
+
+- [ ] Tarea pendiente
+- [x] Tarea completada
+
 
 
 
