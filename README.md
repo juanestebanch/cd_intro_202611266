@@ -13,5 +13,10 @@ que pereza tanta calle
 Imagen simple
 ![Texto alternativo](carrito01.jpg)
 
+Imagen desde URL externa
+![Logo](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fco.linkedin.com%2Fin%2Frodrigo-taborda-rios&ved=0CBYQjRxqFwoTCIDeuu7vvZMDFQAAAAAdAAAAABAI&opi=89978449)
+
+
+
 
 
